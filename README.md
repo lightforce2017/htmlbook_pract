@@ -32,11 +32,7 @@
 ## TEX
 Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
 
-Решение: 
-
-```html
-Joy of T<span style="vertical-align: sub;">E</span>X
-```
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
 
 ## Андроид в тени
 ## Асуанская плотина
