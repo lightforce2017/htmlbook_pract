@@ -34,23 +34,103 @@
 
 [Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
 
+Текст условия:
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+![b](img_tasks/1_low/TEX.png)
+Рис. 1
+</p>
+
 ## Андроид в тени
+Условие задачи: [Андроид в тени](http://htmlbook.ru/practical/android-v-teni)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Асуанская плотина
+Условие задачи: [Асуанская плотина](http://htmlbook.ru/practical/asuanskaya-plotina)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Верхний и нижний индекс
+Условие задачи: [Верхний и нижний индекс](http://htmlbook.ru/practical/verkhniy-i-nizhniy-indeks)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Вложенные списки
+Условие задачи: [Вложенные списки](http://htmlbook.ru/practical/vlozhennye-spiski)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Выворотка
+Условие задачи: [Выворотка](http://htmlbook.ru/practical/vyvorotka)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Заголовки
+Условие задачи: [Заголовки](http://htmlbook.ru/practical/zagolovki)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Из XHTML в HTML5
+Условие задачи: [Из XHTML в HTML5](http://htmlbook.ru/practical/iz-xhtml-v-html5)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Из XHTML в HTML5
+Условие задачи: [Из XHTML в HTML5](http://htmlbook.ru/practical/iz-xhtml-v-html5-0)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Использование спецсимволов
+Условие задачи: [Использование спецсимволов](http://htmlbook.ru/practical/ispolzovanie-spetssimvolov)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Исправление ошибок 1
+Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok-1)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Исправление ошибок 2
+Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Исправление ошибок 3
+Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok-3)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Исправление ошибок 4
+Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok-0)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Исправление ошибок 5
+Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok-2)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Карты
+Условие задачи: [Карты](http://htmlbook.ru/practical/karty)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Многочлен степени n
+Условие задачи: [Многочлен степени n](http://htmlbook.ru/practical/mnogochlen-stepeni-n)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Нумерованный и маркированный список
+Условие задачи: [Нумерованный и маркированный список](http://htmlbook.ru/practical/numerovannyy-i-markirovannyy-spisok)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 ## Объединение ячеек таблицы
+Условие задачи: [Объединение ячеек таблицы](http://htmlbook.ru/practical/obedinenie-yacheek-tablitsy)
+
+[Посмотреть в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
 
 #
