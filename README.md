@@ -38,7 +38,8 @@
 
 Оформите текст, как показано на рис. 1.
 <p align="center">
-    <img src="img_tasks/1_low/TEX.png">
+    <img src="/img_tasks/1_low/TEX.png">
+
 Рис. 1
 </p>
 
