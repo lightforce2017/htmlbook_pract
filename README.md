@@ -45,7 +45,7 @@
 ## Андроид в тени
 Условие задачи: [Андроид в тени](http://htmlbook.ru/practical/android-v-teni)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Андроид%20в%20тени.html)
 
 **Текст условия:**
 
@@ -59,7 +59,7 @@
 ## Асуанская плотина
 Условие задачи: [Асуанская плотина](http://htmlbook.ru/practical/asuanskaya-plotina)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Асуанская%20плотина.html)
 
 **Текст условия:**
 
@@ -72,7 +72,7 @@
 ## Верхний и нижний индекс
 Условие задачи: [Верхний и нижний индекс](http://htmlbook.ru/practical/verkhniy-i-nizhniy-indeks)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Верхний%20и%20нижний%20индекс.html)
 
 **Текст условия:**
 
@@ -86,7 +86,7 @@
 ## Вложенные списки
 Условие задачи: [Вложенные списки](http://htmlbook.ru/practical/vlozhennye-spiski)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Вложенные%20списки.html)
 
 **Текст условия:**
 
@@ -99,7 +99,7 @@
 ## Выворотка
 Условие задачи: [Выворотка](http://htmlbook.ru/practical/vyvorotka)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Выворотка.html)
 
 **Текст условия:**
 
@@ -112,7 +112,7 @@
 ## Заголовки
 Условие задачи: [Заголовки](http://htmlbook.ru/practical/zagolovki)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Заголовки.html)
 
 **Текст условия:**
 
@@ -125,7 +125,7 @@
 ## Из XHTML в HTML5
 Условие задачи: [Из XHTML в HTML5](http://htmlbook.ru/practical/iz-xhtml-v-html5)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Из%20XHTML%20в%20HTML5_1.html)
 
 **Текст условия:**
 
@@ -215,7 +215,7 @@
 ## Из XHTML в HTML5
 Условие задачи: [Из XHTML в HTML5](http://htmlbook.ru/practical/iz-xhtml-v-html5-0)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Из%20XHTML%20в%20HTML5_2.html)
 
 **Текст условия:**
 
@@ -311,7 +311,7 @@
 ## Использование спецсимволов
 Условие задачи: [Использование спецсимволов](http://htmlbook.ru/practical/ispolzovanie-spetssimvolov)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Использование%20спецсимволов.html)
 
 **Текст условия:**
 
@@ -324,7 +324,7 @@
 ## Исправление ошибок 1
 Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok-1)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Исправление%20ошибок_1.html)
 
 **Текст условия:**
 
@@ -353,7 +353,7 @@
 ## Исправление ошибок 2
 Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Исправление%20ошибок_2.html)
 
 **Текст условия:**
 
@@ -382,7 +382,7 @@
 ## Исправление ошибок 3
 Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok-3)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Исправление%20ошибок_3.html)
 
 **Текст условия:**
 
@@ -414,7 +414,7 @@
 ## Исправление ошибок 4
 Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok-0)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Исправление%20ошибок_4.html)
 
 **Текст условия:**
 
@@ -443,7 +443,7 @@
 ## Исправление ошибок 5
 Условие задачи: [Исправление ошибок](http://htmlbook.ru/practical/ispravlenie-oshibok-2)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Исправление%20ошибок_5.html)
 
 **Текст условия:**
 
@@ -473,7 +473,7 @@
 ## Карты
 Условие задачи: [Карты](http://htmlbook.ru/practical/karty)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Карты.html)
 
 **Текст условия:**
 
@@ -486,17 +486,17 @@
 ## Многочлен степени n
 Условие задачи: [Многочлен степени n](http://htmlbook.ru/practical/mnogochlen-stepeni-n)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Многочлен%20степени%20n.html)
 
 ## Нумерованный и маркированный список
 Условие задачи: [Нумерованный и маркированный список](http://htmlbook.ru/practical/numerovannyy-i-markirovannyy-spisok)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Нумерованный%20и%20маркированный%20список.html)
 
 ## Объединение ячеек таблицы
 Условие задачи: [Объединение ячеек таблицы](http://htmlbook.ru/practical/obedinenie-yacheek-tablitsy)
 
-[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Объединение%20ячеек%20таблицы.html)
 
 
 #
