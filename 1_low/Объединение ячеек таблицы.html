@@ -1,9 +1,50 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Добыча</title>
+    <style>
+        table {
+            border: 1px solid black;
+            width: 410px;
+        }
+        tr.th td {
+            font-weight: bold;
+            text-align: center;  
+        }
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+        .tdcenter {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
-    
+    <table>
+        <caption>Добыча драгоценных камней</caption>
+        <tr class="th">
+            <td></td>
+            <td>2010</td>
+            <td>2012</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Сапфиры</td>
+            <td rowspan=2>1483</td>
+            <td>4532</td>
+            <td>6743</td>
+        </tr>
+        <tr>
+            <td>Рубины</td>
+            <td>3835</td>
+            <td>7482</td>
+        </tr>
+        <tr>
+            <td>Алмазы</td>
+            <td>683</td>
+            <td colspan=2 class="tdcenter">238</td>
+        </tr>
+    </table>
 </body>
 </html>

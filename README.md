@@ -488,15 +488,36 @@
 
 [Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Многочлен%20степени%20n.html)
 
+**Текст условия:**
+
+Напишите код XHTML, чтобы получить результат, приведенный на рис. 1.
+
+<p align="center"><img src="/img_tasks/1_low/ndeg.png"></p>
+
+Рис. 1
+
 ## Нумерованный и маркированный список
 Условие задачи: [Нумерованный и маркированный список](http://htmlbook.ru/practical/numerovannyy-i-markirovannyy-spisok)
 
 [Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Нумерованный%20и%20маркированный%20список.html)
+
+**Текст условия:**
+
+Создайте список, как показано на рис. 1. Ссылки не обязательно должны работать (т.е. вести на какие-то существующие файлы), главное сохранить указанный вид и валидность кода.
+
+<p align="center"><img src="/img_tasks/1_low/olul.png"></p>
+
+Рис. 1
 
 ## Объединение ячеек таблицы
 Условие задачи: [Объединение ячеек таблицы](http://htmlbook.ru/practical/obedinenie-yacheek-tablitsy)
 
 [Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/Объединение%20ячеек%20таблицы.html)
 
+**Текст условия:**
 
-#
+Создайте таблицу приведенную на рис. 1.
+
+<p align="center"><img src="/img_tasks/1_low/tabspan.png"></p>
+
+Рис. 1

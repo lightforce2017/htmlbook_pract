@@ -1,9 +1,48 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Вложенные списки</title>
+    <style>
+        ol.main-ol {
+            font-weight: bold;
+        }
+        ol.main-ol li {
+            list-style: upper-roman;
+        }
+        ol li::marker {
+            font-weight: normal;
+        }
+        ol.main-ol li ul li {
+            list-style: disc;
+            font-weight: normal;
+        }
+    </style>
 </head>
 <body>
-    
+    <h1>Ключевые слова</h1>
+    <ol class="main-ol">
+        <li>A
+            <ul>
+                <li><a href="#">abstract</a></li>
+            </ul>
+        </li>
+        <li>B
+            <ul>
+                <li><a href="#">boolean</a></li>
+                <li><a href="#">break</a></li>
+                <li><a href="#">byte</a></li>
+            </ul>
+        </li>
+        <li>C
+            <ul>
+                <li><a href="#">case</a></li>
+                <li><a href="#">catch</a></li>
+                <li><a href="#">char</a></li>
+                <li><a href="#">class</a></li>
+                <li><a href="#">const</a></li>
+                <li><a href="#">continue</a></li>
+            </ul>
+        </li>
+    </ol>
 </body>
 </html>

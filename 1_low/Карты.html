@@ -2,9 +2,48 @@
 <head>
     <meta charset="UTF-8">
     <title>Карты</title>
+    <style>
+        ul {
+        list-style: none;
+        margin-left: 0;
+        padding-left: 0;
+        }
+
+        li {
+        padding-left: 1em;
+        /* text-indent: -1em; */
+        line-height: 2.3;
+        }
+
+        li.spade:before {
+        content: "\2660";
+        padding-right: 10px;
+        }
+
+        li.club:before {
+        content: "\2663";
+        padding-right: 10px;
+        }
+
+        li.diamont:before {
+        content: "\2666";
+        padding-right: 10px;
+        color: red;
+        }
+
+        li.heart:before {
+        content: "\2665";
+        padding-right: 10px;
+        color: red;
+        }
+    </style>
 </head>
 <body>
-    http://htmlbook.ru/practical
-    http://htmlbook.ru/practical/karty
+    <ul>
+        <li class="spade">8, 9</li>
+        <li class="club">8, 9</li>
+        <li class="diamont">7, 10, B</li>
+        <li class="heart">7, 8, 9</li>
+    </ul>
 </body>
 </html>

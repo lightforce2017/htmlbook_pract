@@ -2,8 +2,29 @@
 <head>
     <meta charset="UTF-8">
     <title></title>
+    <style>
+        div.item {
+            display: inline-block;
+            width: 70px;
+            height: 70px;
+            background-color: #000000;
+        }
+        div.item:not(:last-child){
+            margin-right: 5px;
+        }
+        div.item:nth-child(even) {
+            background-color: #009abf;
+        }
+        div.item:hover {
+            background-color: #ff9f19;
+        }
+    </style>
 </head>
 <body>
-    
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
 </body>
 </html>
