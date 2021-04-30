@@ -1,4 +1,3 @@
-# htmlbook_pract
 Мои решения задач с сайта http://htmlbook.ru/practical
 Задачи распределены по каталогам low, medium, high по уровню сложности задач.
 Стиль для каждой задачи выбран inline или embedded, чтобы не множить файлы css.
@@ -6,7 +5,6 @@
 
 <!-- # Содержание -->
 # Contents
-- [htmlbook_pract](#htmlbook_pract)
 - [Contents](#contents)
 - [Задачи легкого уровня сложности](#задачи-легкого-уровня-сложности)
   - [TEX](#tex)
@@ -28,6 +26,27 @@
   - [Многочлен степени n](#многочлен-степени-n)
   - [Нумерованный и маркированный список](#нумерованный-и-маркированный-список)
   - [Объединение ячеек таблицы](#объединение-ячеек-таблицы)
+  - [Оптимизация CSS](#оптимизация-css)
+  - [Опять таблицы](#опять-таблицы)
+  - [Отступы между блоков](#отступы-между-блоков)
+  - [Поле для ввода чисел](#поле-для-ввода-чисел)
+  - [Поле для поиска](#поле-для-поиска)
+  - [Работа с абзацами](#работа-с-абзацами)
+  - [Разноцветные ссылки](#разноцветные-ссылки)
+  - [Рисованная рамка](#рисованная-рамка)
+  - [Создание веб-страницы](#создание-веб-страницы)
+  - [Создание ссылок](#создание-ссылок)
+  - [Создание таблицы](#создание-таблицы)
+  - [Ссылка на страницу](#ссылка-на-страницу)
+  - [Стиль для печати](#стиль-для-печати)
+  - [Стихотворение](#стихотворение)
+  - [Флаг Японии](#флаг-японии)
+  - [Цвет и фон в таблице](#цвет-и-фон-в-таблице)
+  - [Цвет фона и текста документа](#цвет-фона-и-текста-документа)
+  - [Чередующиеся квадраты](#чередующиеся-квадраты)
+  - [Ширина таблицы](#ширина-таблицы)
+
+
 # Задачи легкого уровня сложности 
 ## TEX
 Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
@@ -519,5 +538,353 @@
 Создайте таблицу приведенную на рис. 1.
 
 <p align="center"><img src="/img_tasks/1_low/tabspan.png"></p>
+
+Рис. 1
+
+## Оптимизация CSS
+Условие задачи: [TEX](http://htmlbook.ru/practical/optimizaciya-css)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Используя группирование и наследование оптимизируйте приведённый стиль.
+```css
+a:link {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 11px;
+  color: #3A681A;
+}
+a:visited {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #3A681A;
+  text-decoration: none;		
+}
+a:hover {
+  text-decoration: none;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #5CA22E;
+}
+a:active {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #DC0000;
+}
+.pole {
+  border: 1px solid #008000;
+  width: 95px;
+  font-size: 11px;
+  background-color: #E7F2D7;
+  height: 17px;
+}
+.pole2 {
+  border: 1px solid #008000;
+  font-size: 11px;
+  background-color: #E7F2D7;
+  height: 17px;
+}
+```
+
+## Опять таблицы
+Условие задачи: [TEX](http://htmlbook.ru/practical/opyat-tablicy)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+Исправьте приведённый код согласно следующим пунктам:
+- уберите устаревшие теги (`<center>`, `<font>`);
+- добавьте стили и перенесите всё оформление страницы в них;
+- валидный HTML5;
+- сделайте тот же макет вообще без использования таблиц.
+
+```html
+<html>
+<body bgcolor="#001646">
+<center>
+<font face='Arial'>
+<table width='970' cellspacing='0' border='0' cellpadding="5">
+<tr height='280'>
+<td colspan='2'> <img src='./images/header.jpg' alt="*"></img></td>
+</tr>
+<tr bgcolor='black'>
+<td width='200' valign='top'>
+<font color="#ffffff">
+<table border='0'>
+<tr><td height='30' width='200' background='./images/back.jpg'><b>Главная</b></td></tr>
+<tr><td height='30' background='./images/back.jpg'><b>Новости</b></td></tr>
+<tr><td height='30' background='./images/back.jpg'><b>О компании</b></td></tr>
+<tr><td height='30' background='./images/back.jpg'><b>Продукция</b></td></tr>
+<tr><td height='30' background='./images/back.jpg'><b>Контакты</b></td></tr>
+</table>
+</font>
+</td> 
+<td><font color='#FFFFFF' face='Verdana' size='2'><p align='justify'>
+Декретное время пространственно неоднородно. Ганимед ищет азимут, тем не менее, 
+Дон Еманс включил в список всего 82-е Великие Кометы. Гелиоцентрическое расстояние 
+постоянно. Каллисто ищет космический лимб, однако большинство спутников движутся 
+вокруг своих планет в ту же сторону, в какую вращаются планеты. Эпоха решает 
+радиант, хотя это явно видно на фотогpафической пластинке, полученной с 
+помощью 1.2-метpового телескопа.</p>
+</font></td>
+</tr>
+<tr height='20'>
+<td colspan='2' align='center' bgcolor='#103898'>
+<font color='#ffffff'>&copy; Copyright ME, 2013</font></td>
+</tr>
+</table>
+</center>
+</font>
+</body>
+</html>
+```
+
+## Отступы между блоков
+Условие задачи: [TEX](http://htmlbook.ru/practical/otstupy-mezhdu-blokov)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Аня написала следующий код (пример 1) и получила страницу, показанную на рис. 1. Но Ане нужно, чтобы не было отступов между блоками, а также справа и слева от блоков. Какие изменения в код для этого требуется внести?
+<p align="center">
+    <img src="/img_tasks/1_low/divindent.png"></p>
+
+Рис. 1. Отступы вокруг блоков
+
+*Пример 1*
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Блоки</title>
+  <style>
+   h1 {
+    background: #569099;
+    padding: 10px;
+    color: #fff;
+   }
+   p {
+    background: #cad8d0;
+    padding: 10px;
+   }
+  </style>
+ </head>
+ <body>
+  <h1>Вот такой чай</h1>
+  <p>История о том, как один человек хотел попить чайку, но по ошибке 
+  вместо воды попытался налить в чайник бензин, и что из этого получилось.</p>
+ </body>
+</html>
+```
+
+## Поле для ввода чисел
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Поле для поиска
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Работа с абзацами
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Разноцветные ссылки
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Рисованная рамка
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Создание веб-страницы
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Создание ссылок
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Создание таблицы
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Ссылка на страницу
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Стиль для печати
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Стихотворение
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Флаг Японии
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Цвет и фон в таблице
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Цвет фона и текста документа
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Чередующиеся квадраты
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
+
+Рис. 1
+
+## Ширина таблицы
+Условие задачи: [TEX](http://htmlbook.ru/practical/tex)
+
+[Открыть решение в браузере](https://raw.githack.com/lightforce2017/htmlbook_pract/master/1_low/TEX.html)
+
+**Текст условия:**
+
+Оформите текст, как показано на рис. 1.
+<p align="center">
+    <img src="/img_tasks/1_low/TEX.png"></p>
 
 Рис. 1
